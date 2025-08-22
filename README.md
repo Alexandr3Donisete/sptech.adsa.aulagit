@@ -1,3 +1,4 @@
 # sptech.adsa.aulagit
 
-For those who come after
+"For those who come after"
+-Gustave
